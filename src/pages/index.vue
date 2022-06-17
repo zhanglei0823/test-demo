@@ -12,7 +12,7 @@ const go = () => {
   <div>
     <div i-carbon-campsite text-4xl inline-block />
     <p>
-      Vitesse Lite1
+      我测试的第一个静态页面
     </p>
     <p>
       <em text-sm op75>Opinionated Vite Starter Template</em>
