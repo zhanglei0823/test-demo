@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "antfu",
+    "Attributify",
+    "composables",
+    "unocss",
+    "unplugin",
+    "Vite",
+    "Vitesse",
+    "vueuse"
+  ],
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "cSpell.customDictionaries": {
+    "custom-dictionary-workspace": {
+      "name": "custom-dictionary-workspace",
+      "path": "${workspaceFolder:vitesse-lite-main}/.cspell/custom-dictionary-workspace.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  }
+}
